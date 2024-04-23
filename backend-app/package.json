@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "name": "backend-app",
     "version": "1.0.0",
     "main": "app.js",
@@ -17,3 +18,23 @@
       "mongoose": "^6.2.1"
     }
   }
+=======
+  "name": "backend-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js" 
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.2"
+  }
+}
+>>>>>>> dc1facd (changes)
